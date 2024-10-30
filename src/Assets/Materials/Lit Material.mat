@@ -46,7 +46,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Cubemap:
-        m_Texture: {fileID: 8900000, guid: 74a7bbd3a98cc5c4387a41b6fe9a5b62, type: 3}
+        m_Texture: {fileID: 8900000, guid: 254d6bee459806c4bb4d7e8234610cdb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -81,6 +81,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_15bd394234604ec7bffc509834f83b48_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 7ed874747c95a2b458edc7a4f226c805, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_2df112ab30584cb599422f45326ffc8c_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 11f31e1ad0ca03e46981a6a2dacc0d4a, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -89,11 +93,23 @@ Material:
         m_Texture: {fileID: 2800000, guid: 08d028d2bf23eea4fb3fe63e7f943c7d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_56a350edf1c64219bf75211a2d8a2bbf_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 11f31e1ad0ca03e46981a6a2dacc0d4a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_58a7803382974c6086fd1b733b17bfc5_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 7ed874747c95a2b458edc7a4f226c805, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_a570ac4e87ce417fbdd6e209f0ad5190_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 88e49c5b73900c44f9ab4ad7c550a203, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b3ae9eff44044e54a2948fbc5394bdd9_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 08d028d2bf23eea4fb3fe63e7f943c7d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_cd473a572164415492a14f3fcb263e6f_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 88e49c5b73900c44f9ab4ad7c550a203, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
